@@ -13,9 +13,9 @@ import sys
 import numpy as np
 
 new_df = pd.DataFrame()
-triggers_df = pd.read_csv('trigger_warnings_dataset.csv', index_col=0)
-mh_df = pd.read_csv('dataset_mh_journal.csv', index_col=0)
-none_df = pd.read_csv('dataset_none_class_entries.csv', index_col=0)
+triggers_df = pd.read_csv('../data/trigger_warnings_dataset.csv', index_col=0)
+mh_df = pd.read_csv('../data/dataset_mh_journal.csv', index_col=0)
+none_df = pd.read_csv('../data/dataset_none_class_entries.csv', index_col=0)
 
 new_df = pd.concat([triggers_df, mh_df])
 new_df.drop_duplicates(keep='first', inplace=True)
