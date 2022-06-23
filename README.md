@@ -3,6 +3,6 @@
 
 ### Project Description
 
-### [Final Pitch Presentation Slides](https://drive.google.com/file/d/1CrqNLR-MM7oVQnEfloIPJyEXDKCPh2od/view?usp=sharing)
+### [Final Pitch Presentation Slides]((https://drive.google.com/file/d/1cRq_-98Jg8uQXUWgRNCFYelwsVuygYOo/view?usp=sharing)
 
 ### Find out more about the [AI4Good Lab](https://www.ai4goodlab.com/)
