@@ -30,3 +30,4 @@ Yuan Hong, Mariam Konate, Nghi Huynh, and Keelin Sekerka
 ### [Final Pitch Presentation Slides](https://drive.google.com/file/d/1cRq_-98Jg8uQXUWgRNCFYelwsVuygYOo/view?usp=sharing)
 
 ### Find out more about the [AI4Good Lab](https://www.ai4goodlab.com/)
+![AI4Good](https://www.ai4goodlab.com/wp-content/uploads/2022/03/ai4goodlab-og-1.jpg)
